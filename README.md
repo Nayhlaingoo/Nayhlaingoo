@@ -18,8 +18,59 @@ I’m a self-taught frontend and UI developer. I’m originally from Mandalay wh
 
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+
+<div style="display: flex; flex-flow: row wrap; gap: 5px">
+<div style="border: 1px solid #fecaca; color: #ef4444; font-weight: 400; padding: 2px 10px; display: flex; align-items: center; gap: 10px; width: fit-content; border-radius: 3px">
+<a style="display: flex;" href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="33" height="34" alt="Git" /></a> Git
+</div>
+
+<div style="border: 1px solid #fef08a; color: #eab308; font-weight: 400; padding: 2px 10px; display: flex; align-items: center; gap: 10px; width: fit-content; border-radius: 3px">
+<a style="display: flex;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img style="border-radius: 5px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" height="32" alt="JavaScript" /></a> JavaScript
+</div>
+
+<div style="border: 1px solid #fecaca; color: #ef4444; font-weight: 400; padding: 2px 10px; display: flex; align-items: center; gap: 10px; width: fit-content; border-radius: 3px">
+<a style="display: flex;" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="33" height="33" alt="HTML5" /></a> HTML
+</div>
+
+<div style="border: 1px solid #bbf7d0; color: #22c55e; font-weight: 400; padding: 2px 10px; display: flex; align-items: center; gap: 10px; width: fit-content; border-radius: 3px">
+<a style="display: flex;" href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="33" height="33" alt="Vue" /></a> Vue
+</div>
+
+<div style="border: 1px solid #bbf7d0; color: #22c55e; font-weight: 400; padding: 2px 10px; display: flex; align-items: center; gap: 10px; width: fit-content; border-radius: 3px">
+<a style="display: flex;" href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="33" height="33" alt="Nuxtjs" /></a> Nuxt JS
+</div>
+
+<div style="border: 1px solid #bfdbfe; color: #3b82f6; font-weight: 400; padding: 2px 10px; display: flex; align-items: center; gap: 10px; width: fit-content; border-radius: 3px">
+<a style="display: flex;" href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="33" height="33" alt="CSS3" /></a> CSS
+</div>
+
+<div style="border: 1px solid #fbcfe8; color: #ec4899; font-weight: 400; padding: 2px 10px; display: flex; align-items: center; gap: 10px; width: fit-content; border-radius: 3px">
+<a style="display: flex;" href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="33" height="33" alt="Sass" /></a> Sass
+</div>
+
+<div style="border: 1px solid #99f6e4; color: #14b8a6; font-weight: 400; padding: 2px 10px; display: flex; align-items: center; gap: 10px; width: fit-content; border-radius: 3px">
+<a style="display: flex;" href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="33" height="33" alt="TailwindCSS" /></a> Tailwind CSS
+</div>
+
+<div style="border: 1px solid #e9d5ff; color: #a855f7; font-weight: 400; padding: 2px 10px; display: flex; align-items: center; gap: 10px; width: fit-content; border-radius: 3px">
+<a style="display: flex;" href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="33" height="33" alt="Bootstrap" /></a> Bootstrap
+</div>
+
+<div style="border: 1px solid #fecaca; color: #ef4444; font-weight: 400; padding: 2px 10px; display: flex; align-items: center; gap: 10px; width: fit-content; border-radius: 3px">
+<a style="display: flex;" href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="31" height="31" alt="Svelte" /></a> SvelteKit
+</div>
+
+<div style="border: 1px solid #f5d0fe; color: #d946ef; font-weight: 400; padding: 2px 10px; display: flex; align-items: center; gap: 10px; width: fit-content; border-radius: 3px">
+<a style="display: flex;" href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="32" height="32" alt="Vite" /></a> Vite
+</div>
+
+<div style="border: 1px solid #fecdd3; color: #fda4af; font-weight: 400; padding: 2px 10px; display: flex; align-items: center; gap: 10px; width: fit-content; border-radius: 3px">
+<a style="display: flex;" href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="33" height="33" alt="Figma" /></a> Figma
+</div>
+</div>
+
 </p>
+
 
 
 ### Socials
