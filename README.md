@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend & UI Developer
 -----------------------
 
-I’m a self-taught frontend and UI developer. I’m originally from Mandalay which is former royal capital of Myanmar. I prefer UI development, where I can create visually appealing websites and make things beautiful.
-By the way, if you want to kickstart your tech career, head over to [perfect404.co](https://perfect404.co/) or contact with me
+I’m a self-taught frontend and UI developer. I’m originally from Mandalay which is former royal capital of Myanmar. I prefer UI development, where I can create visually appealing websites and make things beautiful. By the way, if you want to kickstart your tech career, head over to [perfect404.co](https://perfect404.co/) or contact with me.
 
 * 🌍  I'm based in Kuala Lumpur Malaysia
 * 🖥️  See my portfolio at [nayhlaingoo.webflow (temporary)](http://nayhlaingoo.webflow.io/)
