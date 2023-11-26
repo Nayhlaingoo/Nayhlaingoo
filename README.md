@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I’m a self-taught frontend and UI developer. I’m originally from Mandalay which is former royal capital of Myanmar. I prefer UI development, where I can create visually appealing websites and make things beautiful. By the way, if you want to kickstart your tech career, head over to https://perfect404.co/ or contact with me.</p>
+<p align="left">I’m a self-taught frontend and UI developer. I’m originally from Mandalay which is former royal capital of Myanmar. I prefer UI development, where I can create visually appealing websites and make things beautiful. By the way, if you want to kickstart your tech career, head over to [Perfect404.co](https://perfect404.co/) or contact with me.</p>
 
 ###
 
@@ -16,14 +16,6 @@
 * 🚀  I'm currently working on [The Perfect 404](http://www.facebook.com/theperfect404/)
 * 🧠  I'm learning SvelteKit and Webflow
 * ⚡  I'm a single. Tell everyone
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayhlaingoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=nayhlaingoo&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayhlaingoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ### Skills
 
@@ -53,6 +45,14 @@
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayhlaingoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=nayhlaingoo&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayhlaingoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ### Socials
