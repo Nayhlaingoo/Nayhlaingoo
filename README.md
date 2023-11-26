@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayhlaingoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### Skills
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
@@ -55,7 +55,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
 
-###
+### Socials
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UCK7NodB-NkLAFuVHlGA-pZw" target="_blank">
