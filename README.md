@@ -17,7 +17,11 @@
 * 🧠  I'm learning SvelteKit and Webflow
 * ⚡  I'm a single. Tell everyone
 
-### Skills
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
