@@ -9,6 +9,9 @@
 <p align="left">I’m a self-taught frontend and UI developer. I’m originally from Mandalay which is former royal capital of Myanmar. I prefer UI development, where I can create visually appealing websites and make things beautiful. By the way, if you want to kickstart your tech career, head over to https://perfect404.co/ or contact with me.</p>
 
 ###
+<div align="right">
+<img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
 * 🌍  I'm based in Kuala Lumpur Malaysia
 * 🖥️  See my portfolio at [nayhlaingoo.webflow (temporary)](http://nayhlaingoo.webflow.io/)
