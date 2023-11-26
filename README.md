@@ -10,6 +10,15 @@
 
 ###
 
+* 🌍  I'm based in Kuala Lumpur Malaysia
+* 🖥️  See my portfolio at [nayhlaingoo.webflow (temporary)](http://nayhlaingoo.webflow.io/)
+* ✉️  You can contact me at [nayhlaingoo93@gmail.com](mailto:nayhlaingoo93@gmail.com)
+* 🚀  I'm currently working on [The Perfect 404](http://www.facebook.com/theperfect404/)
+* 🧠  I'm learning SvelteKit and Webflow
+* ⚡  I'm a single. Tell everyone
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nayhlaingoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=nayhlaingoo&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
