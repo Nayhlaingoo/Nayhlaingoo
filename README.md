@@ -65,6 +65,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nayhlaingoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <a href="http://www.github.com/nayhlaingoo"><img src="https://github-readme-stats.vercel.app/api?username=nayhlaingoo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nayhlaingoo's GitHub stats" /></a>
   <img src="https://streak-stats.demolab.com?user=nayhlaingoo&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayhlaingoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
 </div>
