@@ -4,7 +4,7 @@
 
 ### -->
 
-<h2 align="left">Hi there👋! <br>
+<h2 align="left">Hi there👋 <br>
 My name is Nay Hlaing Oo</h2>
 
 ###
