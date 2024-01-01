@@ -95,10 +95,10 @@ My name is Nay Hlaing Oo</h2>
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=nayhlaingoo&bg_color=ffffff&color=000000&line=e05397&point=FFFFFF&hide_border=true&" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayhlaingoo&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayhlaingoo&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nayhlaingoo&theme=radical&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayhlaingoo&layout=compact&theme=radical" />
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayhlaingoo&theme=github_dark" /> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayhlaingoo&theme=radical" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=nayhlaingoo&theme=radical&show_icons=true" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayhlaingoo&layout=compact&theme=radical" /> -->
   <img src="https://github-profile-trophy.vercel.app/?username=nayhlaingoo&margin-w=5&theme=radical" />
 </p>
 
