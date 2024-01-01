@@ -65,7 +65,7 @@ My name is Nay Hlaing Oo</h2>
 ###
 
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayhlaingoo&theme=onedark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayhlaingoo&theme=onedark&hide_border=false" />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayhlaingoo&theme=radical" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=nayhlaingoo&theme=radical&show_icons=true" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayhlaingoo&layout=compact&theme=radical" /> -->
