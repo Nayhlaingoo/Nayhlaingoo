@@ -79,7 +79,7 @@ My name is Nay Hlaing Oo</h2>
   <a href="https://www.instagram.com/nayhlaingoo_93/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
   </a>
-  <a href="[https://discord.com/channels/@me/1004703574091124806](https://discord.com/invite/Mf8QfZFrgj?fbclid=IwAR3s9P82lGM_fZlwKkullOLpwtpt60AxfnrN_xZ0eoAa6cfjIf5rIccnGWo)" target="_blank">
+  <a href="https://discord.com/invite/Mf8QfZFrgj?fbclid=IwAR3s9P82lGM_fZlwKkullOLpwtpt60AxfnrN_xZ0eoAa6cfjIf5rIccnGWo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="discord logo"  />
   </a>
   <a href="nayhlaingoo93@gmail.com" target="_blank">
