@@ -65,15 +65,15 @@ My name is Nay Hlaing Oo</h2>
 ###
 
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayhlaingoo&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nayhlaingoo&theme=onedark" />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayhlaingoo&theme=radical" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=nayhlaingoo&theme=radical&show_icons=true" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayhlaingoo&layout=compact&theme=radical" /> -->
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nayhlaingoo&show_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=nayhlaingoo&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayhlaingoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-    <img src="https://github-profile-trophy.vercel.app/?username=nayhlaingoo&margin-w=5&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayhlaingoo&show_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=nayhlaingoo&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayhlaingoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-profile-trophy.vercel.app/?username=nayhlaingoo&margin-w=5&theme=radical" />
 </div>
 
 ### Socials
