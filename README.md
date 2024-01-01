@@ -33,33 +33,33 @@ My name is Nay Hlaing Oo</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" title="JavaScript"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" title="HTML"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" title="CSS"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" title="TailwindCSS"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo" title="Bootstrap"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo" title="SASS"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo" title="Vue JS" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="30" alt="nuxtjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="30" alt="nuxtjs logo" title="Nuxt JS"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" title="Figma"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webflow" height="30" alt="webflow logo"  />
+  <img src="https://skillicons.dev/icons?i=webflow" height="30" alt="webflow logo" title="Webflow"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="30" alt="svelte logo"  />
+  <img src="https://skillicons.dev/icons?i=svelte" height="30" alt="svelte logo" title="Sveltekit"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" title="Git"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" title="Github"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo"  />
+  <img src="https://skillicons.dev/icons?i=md" height="30" alt="markdown logo" title="Markdown"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" title="VSCode"  />
 </div>
 
 ###
